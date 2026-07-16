@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Hi%20there,%20I'm%20Koharuu%20&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Hi%20there,%20I'm%20Koharuuu%20&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=500&size=30&duration=3000&pause=1000&color=AB8EFF&background=FFFFFF00&random=true&width=435&lines=Software+Engineer;Laravel+%2F+PHP+Web+Developer;VB.NET+%26+C%23+Enthusiast;Cybersecurity+Enthusiast" alt="Typing SVG" /></a>
 
@@ -43,15 +43,6 @@ I am a **Software Engineering Student** passionate about building functional app
 
 </div>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Koharu202&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koharu202&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=Koharu202&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-</div>
 
 ## Connect With Me
 
@@ -64,8 +55,3 @@ I am a **Software Engineering Student** passionate about building functional app
 
 <br/>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?Koharu202&style=flat-square&color=06b6d4" alt="Profile views"/>
-
-</div>
