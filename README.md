@@ -42,16 +42,6 @@ I am a **Software Engineering Student** passionate about building functional app
 <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,kali,php,laravel,mysql,tailwind,html,css,git,github,vscode,figma" alt="Skills"/>
 
 </div>
-GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=koharu202&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=koharu202&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koharu202&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
 
 
 ## Connect With Me
