@@ -39,7 +39,7 @@ I am a **Software Engineering Student** passionate about building functional app
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,kali,linux,php,laravel,kotlin,androidstudio,mysql,tailwind,html,css,git,github,vscode,figma" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,kali,linux,php,laravel,mysql,tailwind,html,css,git,github,vscode,figma" alt="Skills"/>
 
 </div>
 
