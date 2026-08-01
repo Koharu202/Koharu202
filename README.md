@@ -17,7 +17,7 @@
 
 I am a **Software Engineering Student** passionate about building functional applications and exploring the world of cybersecurity. I love solving complex logic, managing database systems, and learning how to secure applications from vulnerabilities.
 
-- **What I do:** Build desktop apps (VB.NET), web systems (Laravel/PHP), and mobile apps (Kotlin)
+- **What I do:** Build desktop apps (VB.NET) and web systems (Laravel/PHP)
 - **Cybersecurity Journey:** Actively learning basic cybersecurity, directory scanning, and vulnerability testing in local environments
 - **Ask me about:** Desktop database connections, CRUD systems, or basic security testing
 
